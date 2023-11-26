@@ -1,25 +1,25 @@
 fileFormatVersion: 2
-guid: 51c01095c8437e74189a6c2973d83a62
+guid: d3cb6f507d54c9c4da7d896018f21887
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8433797990077498369
-    second: Interior-Sheet_0
+      213: -3544706081364902337
+    second: Interior-Sheet 1_0
   - first:
-      213: 5805559596189418381
-    second: Interior-Sheet_1
+      213: 1857698063674506080
+    second: Interior-Sheet 1_1
   - first:
-      213: 6259455536209693690
-    second: Interior-Sheet_2
+      213: 674638817973096409
+    second: Interior-Sheet 1_2
   - first:
-      213: -5852060735121783102
-    second: Interior-Sheet_3
+      213: -7992062137246903614
+    second: Interior-Sheet 1_3
   - first:
-      213: 2059741339042818424
-    second: Interior-Sheet_4
+      213: 4208849953002019683
+    second: Interior-Sheet 1_4
   - first:
-      213: 7388345091038371818
-    second: Interior-Sheet_5
+      213: 9162484864104995333
+    second: Interior-Sheet 1_5
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -86,7 +86,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -98,7 +98,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -110,7 +110,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -122,7 +122,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 0
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -133,12 +133,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Interior-Sheet_0
+      name: Interior-Sheet 1_0
       rect:
         serializedVersion: 2
         x: 491
         y: 97
-        width: 42
+        width: 44
         height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -147,19 +147,19 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ffbf606896125fa80800000000000000
-      internalID: -8433797990077498369
+      spriteID: f3ef313899caecec0800000000000000
+      internalID: -3544706081364902337
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Interior-Sheet_1
+      name: Interior-Sheet 1_1
       rect:
         serializedVersion: 2
         x: 355
         y: 21
-        width: 42
+        width: 44
         height: 76
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -168,14 +168,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d830b3d81bd719050800000000000000
-      internalID: 5805559596189418381
+      spriteID: 06bff31eb8ed7c910800000000000000
+      internalID: 1857698063674506080
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Interior-Sheet_2
+      name: Interior-Sheet 1_2
       rect:
         serializedVersion: 2
         x: 629
@@ -189,14 +189,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: afb812b65ad0ed650800000000000000
-      internalID: 6259455536209693690
+      spriteID: 9dfc9f83e6ccc5900800000000000000
+      internalID: 674638817973096409
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Interior-Sheet_3
+      name: Interior-Sheet 1_3
       rect:
         serializedVersion: 2
         x: 772
@@ -210,14 +210,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2c60e0754cd49cea0800000000000000
-      internalID: -5852060735121783102
+      spriteID: 2c29c8674dd761190800000000000000
+      internalID: -7992062137246903614
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Interior-Sheet_4
+      name: Interior-Sheet 1_4
       rect:
         serializedVersion: 2
         x: 76
@@ -231,14 +231,14 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 879a5dab5dba59c10800000000000000
-      internalID: 2059741339042818424
+      spriteID: 36bda999bb6d86a30800000000000000
+      internalID: 4208849953002019683
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Interior-Sheet_5
+      name: Interior-Sheet 1_5
       rect:
         serializedVersion: 2
         x: 206
@@ -252,8 +252,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: aefd75517bca88660800000000000000
-      internalID: 7388345091038371818
+      spriteID: 50a1fd0607fa72f70800000000000000
+      internalID: 9162484864104995333
       vertices: []
       indices: 
       edges: []
@@ -261,7 +261,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: c7fa855e5fb58ee43a865a9631aa1366
+    spriteID: 8363ef5c7b3950340a057107e358e493
     internalID: 0
     vertices: []
     indices: 
