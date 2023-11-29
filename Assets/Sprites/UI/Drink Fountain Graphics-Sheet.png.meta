@@ -1,25 +1,25 @@
 fileFormatVersion: 2
-guid: d3cb6f507d54c9c4da7d896018f21887
+guid: 642756f1aff3a4b4d859b5705d4b8f2f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3544706081364902337
-    second: Interior-Sheet 1_0
+      213: -4911567266441983773
+    second: Drink Fountain Graphics-Sheet_0
   - first:
-      213: 1857698063674506080
-    second: Interior-Sheet 1_1
+      213: -8827942555558662691
+    second: Drink Fountain Graphics-Sheet_1
   - first:
-      213: 674638817973096409
-    second: Interior-Sheet 1_2
+      213: 1045968686990586046
+    second: Drink Fountain Graphics-Sheet_2
   - first:
-      213: -7992062137246903614
-    second: Interior-Sheet 1_3
+      213: 8614722488384149737
+    second: Drink Fountain Graphics-Sheet_3
   - first:
-      213: 4208849953002019683
-    second: Interior-Sheet 1_4
+      213: -8344925544783234245
+    second: Drink Fountain Graphics-Sheet_4
   - first:
-      213: 9162484864104995333
-    second: Interior-Sheet 1_5
+      213: 6021774978982868679
+    second: Drink Fountain Graphics-Sheet_5
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -133,13 +133,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Interior-Sheet 1_0
+      name: Drink Fountain Graphics-Sheet_0
       rect:
         serializedVersion: 2
-        x: 491
-        y: 97
-        width: 44
-        height: 32
+        x: 0
+        y: 0
+        width: 200
+        height: 200
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -147,20 +147,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f3ef313899caecec0800000000000000
-      internalID: -3544706081364902337
+      spriteID: 3e80a41089b96dbb0800000000000000
+      internalID: -4911567266441983773
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Interior-Sheet 1_1
+      name: Drink Fountain Graphics-Sheet_1
       rect:
         serializedVersion: 2
-        x: 355
-        y: 21
-        width: 44
-        height: 76
+        x: 221
+        y: 36
+        width: 158
+        height: 75
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -168,20 +168,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 06bff31eb8ed7c910800000000000000
-      internalID: 1857698063674506080
+      spriteID: ddd2f56a409dc7580800000000000000
+      internalID: -8827942555558662691
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Interior-Sheet 1_2
+      name: Drink Fountain Graphics-Sheet_2
       rect:
         serializedVersion: 2
-        x: 629
-        y: 15
-        width: 36
-        height: 70
+        x: 437
+        y: 105
+        width: 28
+        height: 45
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -189,20 +189,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9dfc9f83e6ccc5900800000000000000
-      internalID: 674638817973096409
+      spriteID: eb07142aaf6048e00800000000000000
+      internalID: 1045968686990586046
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Interior-Sheet 1_3
+      name: Drink Fountain Graphics-Sheet_3
       rect:
         serializedVersion: 2
-        x: 772
-        y: 38
-        width: 23
-        height: 5
+        x: 670
+        y: 105
+        width: 28
+        height: 45
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -210,20 +210,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2c29c8674dd761190800000000000000
-      internalID: -7992062137246903614
+      spriteID: 9e8d4bed574ad8770800000000000000
+      internalID: 8614722488384149737
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Interior-Sheet 1_4
+      name: Drink Fountain Graphics-Sheet_4
       rect:
         serializedVersion: 2
-        x: 76
-        y: 13
-        width: 48
-        height: 8
+        x: 903
+        y: 105
+        width: 28
+        height: 45
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -231,20 +231,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 36bda999bb6d86a30800000000000000
-      internalID: 4208849953002019683
+      spriteID: b3bbc1a2e6ed03c80800000000000000
+      internalID: -8344925544783234245
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Interior-Sheet 1_5
+      name: Drink Fountain Graphics-Sheet_5
       rect:
         serializedVersion: 2
-        x: 206
-        y: 6
-        width: 47
-        height: 8
+        x: 1136
+        y: 105
+        width: 28
+        height: 45
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -252,8 +252,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 50a1fd0607fa72f70800000000000000
-      internalID: 9162484864104995333
+      spriteID: 7c6fb9b4074a19350800000000000000
+      internalID: 6021774978982868679
       vertices: []
       indices: 
       edges: []
@@ -261,7 +261,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 8363ef5c7b3950340a057107e358e493
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 

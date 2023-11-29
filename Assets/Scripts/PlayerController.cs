@@ -5,14 +5,15 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     public Animator animator;
-    public bool canMove;
+    public bool CanMove = true;
     // Use this for initialization
     void Start() {
+        CanMove = true;
     }
 
     // Update is called once per frame
     void Update(){
-        if(canMove = true) {
+        if(CanMove == true) {
             //Animation Handling
             animator.SetFloat( "Horizontal", Input.GetAxis( "Horizontal" ) );
             if(Input.GetAxis( "Horizontal" ) > 0) {
