@@ -4,18 +4,25 @@ using UnityEngine;
 
 public class Follow : MonoBehaviour
 {
-    public GameObject objectToFollow;
+    public Transform objectToFollow;
+    public Vector3 offset;
+    public float damping;
+
+    private Vector3 velocity = Vector3.zero;
 
     public float speed = 2.0f;
 
-    void Update()
+    void LateUpdate()
     {
+        Vector3 movePosition = objectToFollow.position + offset;
+        transform.position = Vector3.SmoothDamp( transform.position, movePosition, ref velocity, damping );
+
         float interpolation = speed * Time.deltaTime;
 
-        Vector3 position = this.transform.position;
-        position.y = Mathf.Lerp(this.transform.position.y, objectToFollow.transform.position.y, interpolation);
-        position.x = Mathf.Lerp(this.transform.position.x, objectToFollow.transform.position.x, interpolation);
+        //Vector3 position = this.transform.position;
+        //position.y = Mathf.Lerp(this.transform.position.y, objectToFollow.transform.position.y, interpolation);
+        //position.x = Mathf.Lerp(this.transform.position.x, objectToFollow.transform.position.x, interpolation);
 
-        this.transform.position = position;
+        //this.transform.position = position;
     }
 }

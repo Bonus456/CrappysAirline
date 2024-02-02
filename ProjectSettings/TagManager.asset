@@ -5,6 +5,13 @@ TagManager:
   serializedVersion: 2
   tags:
   - Plane Segment
+  - Claimed
+  - Unclaimed
+  - Game Manager
+  - PHD
+  - Arson
+  - Slug
+  - Water
   layers:
   - Default
   - TransparentFX

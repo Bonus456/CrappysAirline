@@ -10,28 +10,28 @@ TextureImporter:
     second: Drink Fountain Graphics-Sheet_1
   - first:
       213: 1045968686990586046
-    second: Drink Fountain Graphics-Sheet_2
+    second: Phd Pete 1
   - first:
       213: 8614722488384149737
-    second: Drink Fountain Graphics-Sheet_3
+    second: Water 1
   - first:
       213: -8344925544783234245
-    second: Drink Fountain Graphics-Sheet_4
+    second: Slug Cola 1
   - first:
       213: 6021774978982868679
-    second: Drink Fountain Graphics-Sheet_5
+    second: Arson Splash 1
   - first:
       213: -2750150097240627561
-    second: Drink Fountain Graphics-Sheet_6
+    second: Phd Pete 2
   - first:
       213: -1805720569621046595
-    second: Drink Fountain Graphics-Sheet_7
+    second: Water 2
   - first:
       213: -4171073591540484541
-    second: Drink Fountain Graphics-Sheet_8
+    second: Slug Cola 2
   - first:
       213: -5688779214814414728
-    second: Drink Fountain Graphics-Sheet_9
+    second: Arson Splash 2
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -153,7 +153,7 @@ TextureImporter:
         width: 200
         height: 200
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -174,7 +174,7 @@ TextureImporter:
         width: 158
         height: 75
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -187,7 +187,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Drink Fountain Graphics-Sheet_2
+      name: Phd Pete 1
       rect:
         serializedVersion: 2
         x: 437
@@ -195,7 +195,7 @@ TextureImporter:
         width: 28
         height: 45
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -208,7 +208,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Drink Fountain Graphics-Sheet_3
+      name: Water 1
       rect:
         serializedVersion: 2
         x: 670
@@ -216,7 +216,7 @@ TextureImporter:
         width: 28
         height: 45
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -229,7 +229,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Drink Fountain Graphics-Sheet_4
+      name: Slug Cola 1
       rect:
         serializedVersion: 2
         x: 903
@@ -237,7 +237,7 @@ TextureImporter:
         width: 28
         height: 45
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -250,7 +250,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Drink Fountain Graphics-Sheet_5
+      name: Arson Splash 1
       rect:
         serializedVersion: 2
         x: 1136
@@ -258,7 +258,7 @@ TextureImporter:
         width: 28
         height: 45
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -271,7 +271,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Drink Fountain Graphics-Sheet_6
+      name: Phd Pete 2
       rect:
         serializedVersion: 2
         x: 437
@@ -279,7 +279,7 @@ TextureImporter:
         width: 28
         height: 45
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -292,7 +292,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Drink Fountain Graphics-Sheet_7
+      name: Water 2
       rect:
         serializedVersion: 2
         x: 670
@@ -300,7 +300,7 @@ TextureImporter:
         width: 28
         height: 45
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -313,7 +313,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Drink Fountain Graphics-Sheet_8
+      name: Slug Cola 2
       rect:
         serializedVersion: 2
         x: 903
@@ -321,7 +321,7 @@ TextureImporter:
         width: 28
         height: 45
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -334,7 +334,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Drink Fountain Graphics-Sheet_9
+      name: Arson Splash 2
       rect:
         serializedVersion: 2
         x: 1136
@@ -342,7 +342,7 @@ TextureImporter:
         width: 28
         height: 45
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

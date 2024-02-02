@@ -6,13 +6,15 @@ public class PlayerController : MonoBehaviour
 {
     public Animator animator;
     public bool CanMove = true;
+    public GameObject[] InventorySlots;
+    public bool[] isFull;
     // Use this for initialization
     void Start() {
         CanMove = true;
     }
 
     // Update is called once per frame
-    void Update(){
+    void FixedUpdate(){
         if(CanMove == true) {
             //Animation Handling
             animator.SetFloat( "Horizontal", Input.GetAxis( "Horizontal" ) );
