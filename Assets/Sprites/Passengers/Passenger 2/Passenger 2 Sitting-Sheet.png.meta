@@ -1,0 +1,636 @@
+fileFormatVersion: 2
+guid: 95e6bd78192b10a45a3f21fc64fb8e17
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9095038073412188440
+    second: Passenger 2 Sitting-Sheet_0
+  - first:
+      213: 1202234244683082750
+    second: Passenger 2 Sitting-Sheet_1
+  - first:
+      213: 2414430738126540105
+    second: Passenger 2 Sitting-Sheet_2
+  - first:
+      213: 8036966598551639110
+    second: Passenger 2 Sitting-Sheet_3
+  - first:
+      213: 1255931082769727821
+    second: Passenger 2 Sitting-Sheet_4
+  - first:
+      213: 3342680456377236785
+    second: Passenger 2 Sitting-Sheet_5
+  - first:
+      213: 1466022897482359609
+    second: Passenger 2 Sitting-Sheet_6
+  - first:
+      213: 1056670116819632110
+    second: Passenger 2 Sitting-Sheet_7
+  - first:
+      213: 7549880773177800395
+    second: Passenger 2 Sitting-Sheet_8
+  - first:
+      213: 2083285994201856751
+    second: Passenger 2 Sitting-Sheet_9
+  - first:
+      213: -4528536128280238885
+    second: Passenger 2 Sitting-Sheet_10
+  - first:
+      213: -6357378548127899531
+    second: Passenger 2 Sitting-Sheet_11
+  - first:
+      213: 2664587772520357549
+    second: Passenger 2 Sitting-Sheet_12
+  - first:
+      213: 1959649139839212027
+    second: Passenger 2 Sitting-Sheet_13
+  - first:
+      213: 1673568944467188687
+    second: Passenger 2 Sitting-Sheet_14
+  - first:
+      213: 6360552412385733452
+    second: Passenger 2 Sitting-Sheet_15
+  - first:
+      213: 64067634477777207
+    second: Passenger 2 Sitting-Sheet_16
+  - first:
+      213: 2339875995183487463
+    second: Passenger 2 Sitting-Sheet_17
+  - first:
+      213: -7694211199041822513
+    second: Passenger 2 Sitting-Sheet_18
+  - first:
+      213: 4690645827459431252
+    second: Passenger 2 Sitting-Sheet_19
+  - first:
+      213: 4167481606537309114
+    second: Passenger 2 Sitting-Sheet_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Passenger 2 Sitting-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 564
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e60d9f4f0fe7c180800000000000000
+      internalID: -9095038073412188440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passenger 2 Sitting-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 564
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb25230da13fa010800000000000000
+      internalID: 1202234244683082750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passenger 2 Sitting-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 564
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d01d0d6f7c18120800000000000000
+      internalID: 2414430738126540105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passenger 2 Sitting-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 564
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644995a2a8a098f60800000000000000
+      internalID: 8036966598551639110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passenger 2 Sitting-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 564
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d418cd26aa6fd6110800000000000000
+      internalID: 1255931082769727821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passenger 2 Sitting-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 423
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d71003a26936e20800000000000000
+      internalID: 3342680456377236785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passenger 2 Sitting-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 423
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9336605de0c585410800000000000000
+      internalID: 1466022897482359609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passenger 2 Sitting-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 423
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeffdcd6fdb0aae00800000000000000
+      internalID: 1056670116819632110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passenger 2 Sitting-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 423
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc670ddef8096c860800000000000000
+      internalID: 7549880773177800395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passenger 2 Sitting-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 423
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feab2f1f29159ec10800000000000000
+      internalID: 2083285994201856751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passenger 2 Sitting-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4655172686721c0800000000000000
+      internalID: -4528536128280238885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passenger 2 Sitting-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 282
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570e520b4ed06c7a0800000000000000
+      internalID: -6357378548127899531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passenger 2 Sitting-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 282
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daedce526748af420800000000000000
+      internalID: 2664587772520357549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passenger 2 Sitting-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 282
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf914809282123b10800000000000000
+      internalID: 1959649139839212027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passenger 2 Sitting-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 282
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb971a8616b93710800000000000000
+      internalID: 1673568944467188687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passenger 2 Sitting-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 141
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b618b28b8354850800000000000000
+      internalID: 6360552412385733452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passenger 2 Sitting-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 141
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731c5a29c2d93e000800000000000000
+      internalID: 64067634477777207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passenger 2 Sitting-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 141
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9106702d8e87020800000000000000
+      internalID: 2339875995183487463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passenger 2 Sitting-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 141
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc0a74e1eaba83590800000000000000
+      internalID: -7694211199041822513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passenger 2 Sitting-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 141
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b33e82785881140800000000000000
+      internalID: 4690645827459431252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passenger 2 Sitting-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb61add07ed5d930800000000000000
+      internalID: 4167481606537309114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1c4614448a172924fa22ff80daa4e19b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

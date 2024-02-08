@@ -1,0 +1,732 @@
+fileFormatVersion: 2
+guid: f66c4a258935c574fb5271701f3fb65a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1473552508489783269
+    second: Bathroom-Sheet_0
+  - first:
+      213: 8934239778029752399
+    second: Bathroom-Sheet_1
+  - first:
+      213: -3325362762260899449
+    second: Bathroom-Sheet_2
+  - first:
+      213: 1717954788562795077
+    second: Bathroom-Sheet_3
+  - first:
+      213: -3400095088919625191
+    second: Bathroom-Sheet_4
+  - first:
+      213: -9124662613103162504
+    second: Bathroom-Sheet_5
+  - first:
+      213: -2739148632551124269
+    second: Bathroom-Sheet_6
+  - first:
+      213: 808734902414057856
+    second: Bathroom-Sheet_7
+  - first:
+      213: 2488973608876508156
+    second: Bathroom-Sheet_8
+  - first:
+      213: 6605265762508109914
+    second: Bathroom-Sheet_9
+  - first:
+      213: 8139287904633369019
+    second: Bathroom-Sheet_10
+  - first:
+      213: 2736943026147510133
+    second: Bathroom-Sheet_11
+  - first:
+      213: 7420751640833715345
+    second: Bathroom-Sheet_12
+  - first:
+      213: -7453034617279601436
+    second: Bathroom-Sheet_13
+  - first:
+      213: -6964072398469514500
+    second: Bathroom-Sheet_14
+  - first:
+      213: -3744479447506187327
+    second: Bathroom-Sheet_15
+  - first:
+      213: -5867316862055184045
+    second: Bathroom-Sheet_16
+  - first:
+      213: 5130199591390754567
+    second: Bathroom-Sheet_17
+  - first:
+      213: -1069557581532737984
+    second: Bathroom-Sheet_18
+  - first:
+      213: 4567589746875327236
+    second: Bathroom-Sheet_19
+  - first:
+      213: 7165873517116385999
+    second: Bathroom-Sheet_20
+  - first:
+      213: -6236522482599180257
+    second: Bathroom-Sheet_21
+  - first:
+      213: -2104769638089889627
+    second: Bathroom-Sheet_22
+  - first:
+      213: 7825569745232159870
+    second: Bathroom-Sheet_23
+  - first:
+      213: -2721494978504153165
+    second: Bathroom-Sheet_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bathroom-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 738
+        width: 92
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e75b62033c137410800000000000000
+      internalID: 1473552508489783269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathroom-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 790
+        width: 11
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40d0a31ebbccfb70800000000000000
+      internalID: 8934239778029752399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathroom-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 720
+        width: 98
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789902eaf20f9d1d0800000000000000
+      internalID: -3325362762260899449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathroom-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 728
+        width: 98
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a777037c667d710800000000000000
+      internalID: 1717954788562795077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathroom-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 704
+        width: 92
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9124566f78f60d0d0800000000000000
+      internalID: -3400095088919625191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathroom-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 620
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bc2baa2bfae5180800000000000000
+      internalID: -9124662613103162504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathroom-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 634
+        width: 24
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d21bc1d4d69cf9d0800000000000000
+      internalID: -2739148632551124269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathroom-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 586
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081a9dfdb14393b00800000000000000
+      internalID: 808734902414057856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathroom-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 592
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf308646f4c9a8220800000000000000
+      internalID: 2488973608876508156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathroom-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 554
+        width: 22
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58785df63e9aab50800000000000000
+      internalID: 6605265762508109914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathroom-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 384
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb13e48b93f84f070800000000000000
+      internalID: 8139287904633369019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathroom-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 380
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577410c6e239bf520800000000000000
+      internalID: 2736943026147510133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathroom-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 378
+        width: 10
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c6a4eec4ecbf660800000000000000
+      internalID: 7420751640833715345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathroom-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 378
+        width: 10
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e42c52e080819890800000000000000
+      internalID: -7453034617279601436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathroom-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 378
+        width: 92
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa3f130d05aa5f90800000000000000
+      internalID: -6964072398469514500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathroom-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 378
+        width: 92
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cb84a618cfe80cc0800000000000000
+      internalID: -3744479447506187327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathroom-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 202
+        width: 92
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3598a8c766a139ea0800000000000000
+      internalID: -5867316862055184045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathroom-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 202
+        width: 92
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70733bfe851223740800000000000000
+      internalID: 5130199591390754567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathroom-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 278
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e4aeddb0b2821f0800000000000000
+      internalID: -1069557581532737984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathroom-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 278
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4036836bca6536f30800000000000000
+      internalID: 4567589746875327236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathroom-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 278
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcae9155ffb427360800000000000000
+      internalID: 7165873517116385999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathroom-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 164
+        width: 92
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1840f638db6379a0800000000000000
+      internalID: -6236522482599180257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathroom-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 102
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8ef9b6a2b5ac2e0800000000000000
+      internalID: -2104769638089889627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathroom-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 102
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e746b9db8320a9c60800000000000000
+      internalID: 7825569745232159870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bathroom-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 102
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b720447cbe4b3ad0800000000000000
+      internalID: -2721494978504153165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b41e535293de52c4fb17fd997a70bf08
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

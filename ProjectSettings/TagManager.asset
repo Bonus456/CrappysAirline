@@ -8,10 +8,8 @@ TagManager:
   - Claimed
   - Unclaimed
   - Game Manager
-  - PHD
-  - Arson
-  - Slug
-  - Water
+  - Occupied
+  - Vacant
   layers:
   - Default
   - TransparentFX

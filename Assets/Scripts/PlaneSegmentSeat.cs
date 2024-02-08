@@ -4,22 +4,22 @@ using UnityEngine;
 
 public class PlaneSegmentSeat : MonoBehaviour
 {
-    public GameObject Passenger;
-    public GameManager GameManager;
-    public bool playerInRange;
+    [HideInInspector] public GameObject Passenger;
+    [HideInInspector] public GameManager GameManager;
+    [HideInInspector] public bool playerInRange;
 
     private PlayerController Player;
     // Start is called before the first frame update
     void Start()
     {
-        Player = GameObject.FindGameObjectWithTag( "Player" ).GetComponent<PlayerController>();
+        Player = GameObject.Find( "Player" ).GetComponent<PlayerController>();
     }
 
-    // Update is called once per frame
-    void FixedUpdate()
-    {
-    }
-    public void AssignPassenger(GameObject _passenger) {
+	// Update is called once per frame
+	void Update( ) {
+		
+	}
+	public void AssignPassenger(GameObject _passenger) {
         Passenger = _passenger;
 	}
 	public void OnTriggerEnter2D(Collider2D col) {

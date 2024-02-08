@@ -4,6 +4,7 @@ public class PassengerDrinkingState : PassengerBaseState {
 	public float drinkTime;
 	public override void EnterState(PassengerStateManager passenger) {
 		drinkTime = passenger.drinkTime;
+		passenger.bladder += passenger.drinkBladderAmount;
 	}
 	public override void UpdateState(PassengerStateManager passenger) {
 		drinkTime -= Time.deltaTime;

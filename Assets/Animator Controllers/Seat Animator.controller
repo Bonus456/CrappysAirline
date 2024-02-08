@@ -15,7 +15,7 @@ AnimatorStateMachine:
   m_StateMachineTransitions: {}
   m_StateMachineBehaviours: []
   m_AnyStatePosition: {x: 50, y: 10, z: 0}
-  m_EntryPosition: {x: 460, y: 130, z: 0}
+  m_EntryPosition: {x: 340, y: 160, z: 0}
   m_ExitPosition: {x: 60, y: 120, z: 0}
   m_ParentStateMachinePosition: {x: 800, y: 20, z: 0}
   m_DefaultState: {fileID: 0}
@@ -27,13 +27,7 @@ AnimatorController:
   m_PrefabAsset: {fileID: 0}
   m_Name: Seat Animator
   serializedVersion: 5
-  m_AnimatorParameters:
-  - m_Name: occupied
-    m_Type: 4
-    m_DefaultFloat: 0
-    m_DefaultInt: 0
-    m_DefaultBool: 0
-    m_Controller: {fileID: 9100000}
+  m_AnimatorParameters: []
   m_AnimatorLayers:
   - serializedVersion: 5
     m_Name: Base Layer

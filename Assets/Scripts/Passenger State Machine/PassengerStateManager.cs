@@ -10,36 +10,53 @@ public class PassengerStateManager : MonoBehaviour
 	public PassengerFollowPlayerState FollowPlayerState = new PassengerFollowPlayerState();
 	public PassengerSitInSeatState SitInSeatState = new PassengerSitInSeatState();
 	public PassengerUseToiletState UseToiletState = new PassengerUseToiletState();
-	public PassengerWalkToDestinationState WalkToDestinationState = new PassengerWalkToDestinationState();
+	public PassengerWalkToBathroomState WalkToBathroomState = new PassengerWalkToBathroomState();
 	public PassengerWalkToSeatState WalkToSeatState = new PassengerWalkToSeatState();
 	public PassengerWanderAroundState WanderAroundState = new PassengerWanderAroundState();
 	public PassengerDrinkingState DrinkingState = new PassengerDrinkingState();
+	public PassengerWaitForBathroomState WaitForBathroomState = new PassengerWaitForBathroomState();
 	
 	[HideInInspector] public GameManager GameManager;
 	[HideInInspector] public GameObject Seat;
 	[HideInInspector] public GameObject Bubble;
 	[HideInInspector] public GameObject Desire;
+	[HideInInspector] public GameObject Bathroom;
 	[HideInInspector] public PlayerController Player;
 	[HideInInspector] public PlaneSegmentSeat seatScript;
 	[HideInInspector] public Animator anim;
 	[HideInInspector] public Animator BubbleAnim;
 	[HideInInspector] public Animator DesireAnim;
+	[HideInInspector] public Transform ArmRestUp;
+	[HideInInspector] public Transform ArmRestDown;
 
+	
 	public bool playerInRange;
 	public float bubbleSitMoveY;
 	public bool sitting;
+	public bool waitingForBathroom;
 
-	private Vector3 BubbleOrgPos;
+	[HideInInspector]public Vector3 BubbleOrgPos;
+	[HideInInspector]public Vector3 StandingPos;
 
 	[Header("Game Manager Settings")]
 	public float moveSpeed;
-	public float maxWait;
-	public float timeToAnger;
-	public float timeToRage;
-	public float drinkTime;
+	public int maxWait;
+	public int timeToAnger;
+	public int timeToRage;
+	public int drinkTime;
+	public int minAttribute;
+	public int maxAttribute;
+	public int drinkBladderAmount;
+	public int bathroomRelief;
+
+	[Header( "Attributes" )]
+	public float bladder;
+	public float sleep;
+	public float anger;
 
 	void Awake( ) {
-		Player = GameObject.FindGameObjectWithTag( "Player" ).GetComponent<PlayerController>();
+		bubbleSitMoveY = 0.633f;
+		Player = GameObject.Find( "Player" ).GetComponent<PlayerController>();
 		Bubble = this.transform.Find( "Bubble" ).gameObject;
 		BubbleAnim = Bubble.GetComponent<Animator>();
 		Desire = this.transform.Find( "Bubble/Desire" ).gameObject;
@@ -54,6 +71,16 @@ public class PassengerStateManager : MonoBehaviour
 		timeToAnger = GameManager.passengerTimeToAnger;
 		timeToRage = GameManager.passengerTimeToRage;
 		drinkTime = GameManager.passengerDrinkTime;
+		minAttribute = GameManager.passengerMinAttribute;
+		maxAttribute = GameManager.passengerMaxAttribute;
+		drinkBladderAmount = GameManager.drinkBladderAmount;
+		bathroomRelief = GameManager.bathroomRelief;
+
+		//Set Attributes
+		bladder = minAttribute;
+		sleep = minAttribute;
+		anger = minAttribute;
+
 	}
 	void Start( ) {
 		currentState = FindSeatState;

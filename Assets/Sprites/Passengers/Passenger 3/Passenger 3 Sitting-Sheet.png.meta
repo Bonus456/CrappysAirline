@@ -1,0 +1,636 @@
+fileFormatVersion: 2
+guid: c6d0ca6f803909743abe027a8e42f18b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6741844181218681324
+    second: Passenger 3 Sitting-Sheet_0
+  - first:
+      213: -891985836499185962
+    second: Passenger 3 Sitting-Sheet_1
+  - first:
+      213: 1657102146561829555
+    second: Passenger 3 Sitting-Sheet_2
+  - first:
+      213: -8304433771638083995
+    second: Passenger 3 Sitting-Sheet_3
+  - first:
+      213: -2447935876781016107
+    second: Passenger 3 Sitting-Sheet_4
+  - first:
+      213: -2902119864603927316
+    second: Passenger 3 Sitting-Sheet_5
+  - first:
+      213: 1312602041970794952
+    second: Passenger 3 Sitting-Sheet_6
+  - first:
+      213: -4872486511060606707
+    second: Passenger 3 Sitting-Sheet_7
+  - first:
+      213: 1718917597266663160
+    second: Passenger 3 Sitting-Sheet_8
+  - first:
+      213: 3885140748066454874
+    second: Passenger 3 Sitting-Sheet_9
+  - first:
+      213: -3239613601351361043
+    second: Passenger 3 Sitting-Sheet_10
+  - first:
+      213: -689353116897715305
+    second: Passenger 3 Sitting-Sheet_11
+  - first:
+      213: 1177905700463302785
+    second: Passenger 3 Sitting-Sheet_12
+  - first:
+      213: -2547862073034740363
+    second: Passenger 3 Sitting-Sheet_13
+  - first:
+      213: 8854014391057922775
+    second: Passenger 3 Sitting-Sheet_14
+  - first:
+      213: -5708114057951625915
+    second: Passenger 3 Sitting-Sheet_15
+  - first:
+      213: 6895504621172366296
+    second: Passenger 3 Sitting-Sheet_16
+  - first:
+      213: 4251585327431099957
+    second: Passenger 3 Sitting-Sheet_17
+  - first:
+      213: 6795303050239926787
+    second: Passenger 3 Sitting-Sheet_18
+  - first:
+      213: -2654819067749477863
+    second: Passenger 3 Sitting-Sheet_19
+  - first:
+      213: 2230893799261222615
+    second: Passenger 3 Sitting-Sheet_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Passenger 3 Sitting-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 564
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1e2902097df8d50800000000000000
+      internalID: 6741844181218681324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passenger 3 Sitting-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 564
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de49ce8b970f93f0800000000000000
+      internalID: -891985836499185962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passenger 3 Sitting-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 564
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3baea526f953ff610800000000000000
+      internalID: 1657102146561829555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passenger 3 Sitting-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 564
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e21c4cb79b0cc80800000000000000
+      internalID: -8304433771638083995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passenger 3 Sitting-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 564
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db788f2a4f270ed0800000000000000
+      internalID: -2447935876781016107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passenger 3 Sitting-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 423
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec9da6fb5999b7d0800000000000000
+      internalID: -2902119864603927316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passenger 3 Sitting-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 423
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c12f1b4a9c473210800000000000000
+      internalID: 1312602041970794952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passenger 3 Sitting-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 423
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01a95f6553716cb0800000000000000
+      internalID: -4872486511060606707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passenger 3 Sitting-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 423
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f65f3f8272dad710800000000000000
+      internalID: 1718917597266663160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passenger 3 Sitting-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 423
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d75ee0deacae530800000000000000
+      internalID: 3885140748066454874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passenger 3 Sitting-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 282
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded9de108949a03d0800000000000000
+      internalID: -3239613601351361043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passenger 3 Sitting-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 282
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79bd0861efcee66f0800000000000000
+      internalID: -689353116897715305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passenger 3 Sitting-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 282
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188d5076ef2c85010800000000000000
+      internalID: 1177905700463302785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passenger 3 Sitting-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 282
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57de21891fc24acd0800000000000000
+      internalID: -2547862073034740363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passenger 3 Sitting-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 282
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da34379d27cfda70800000000000000
+      internalID: 8854014391057922775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passenger 3 Sitting-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 141
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d3166d184b8c0b0800000000000000
+      internalID: -5708114057951625915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passenger 3 Sitting-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 141
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db1b044be0c1bf50800000000000000
+      internalID: 6895504621172366296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passenger 3 Sitting-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 141
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5362bc5545aa00b30800000000000000
+      internalID: 4251585327431099957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passenger 3 Sitting-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 141
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302eda20f14cd4e50800000000000000
+      internalID: 6795303050239926787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passenger 3 Sitting-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 141
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912dbdbaf10382bd0800000000000000
+      internalID: -2654819067749477863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Passenger 3 Sitting-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 96
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d63694371ab5fe10800000000000000
+      internalID: 2230893799261222615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 072b2fa141be7f44bb9abddd4e424758
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

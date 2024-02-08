@@ -1,9 +1,11 @@
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 
-public class PassengerWalkToDestinationState : PassengerBaseState
+public class PassengerWaitForBathroomState : PassengerBaseState
 {
 	public override void EnterState(PassengerStateManager passenger) {
-
+		passenger.anim.SetBool( "Walking", false );
 	}
 	public override void UpdateState(PassengerStateManager passenger) {
 

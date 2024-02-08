@@ -11,30 +11,19 @@ public class PassengerSitInSeatState : PassengerBaseState
 	public override void EnterState(PassengerStateManager passenger) {
 		//Checks to see if the passenger is already sitting down
 		if(passenger.sitting) {
-			ArmrestUp = passenger.Seat.transform.Find( "Chair/Armrest Up" );
-			ArmrestDown = passenger.Seat.transform.Find( "Chair/Armrest Down" );
-			seatTrans = passenger.Seat.transform.Find( "Passenger" );
 			randWait = Random.Range( 0, passenger.maxWait );
 
 		} else {
-			//Change position of bubble for sitting
-			bubbleSitMoveY = passenger.bubbleSitMoveY;
-			passenger.Bubble.transform.localPosition = new Vector3( 0.0f,
-			bubbleSitMoveY, passenger.Bubble.transform.position.z );
+			SitDown(passenger);
+		}
 
-			passenger.seatScript.AssignPassenger( passenger.gameObject );
-			moveSpeed = passenger.SitInSeatState.moveSpeed;
-			passenger.anim.SetBool( "walking", false );
-			passenger.anim.SetTrigger( "SitDown" );
-			ArmrestUp = passenger.Seat.transform.Find( "Chair/Armrest Up" );
-			ArmrestDown = passenger.Seat.transform.Find( "Chair/Armrest Down" );
-			seatTrans = passenger.Seat.transform.Find( "Passenger" );
-			randWait = Random.Range( 0, passenger.maxWait );
+		if(passenger.bladder >= passenger.GameManager.passengerMaxAttribute) {
+			passenger.SwitchState( passenger.WalkToBathroomState );
 		}
 	}
 	public override void UpdateState(PassengerStateManager passenger) {
-
-		Vector3 oldPosition = passenger.transform.position;
+		if(!passenger.sitting) {
+			Vector3 oldPosition = passenger.transform.position;
 			Vector3 seatPosition = seatTrans.transform.position;
 			if(oldPosition != seatPosition) {
 				oldPosition.z = Mathf.MoveTowards( oldPosition.z, seatTrans.position.z, Time.deltaTime * passenger.moveSpeed );
@@ -42,14 +31,33 @@ public class PassengerSitInSeatState : PassengerBaseState
 				oldPosition.x = Mathf.MoveTowards( oldPosition.x, seatTrans.position.x, Time.deltaTime * passenger.moveSpeed );
 				passenger.transform.position = oldPosition;
 			} else if(oldPosition == seatPosition) {
-				ArmrestUp.gameObject.SetActive( false );
-				ArmrestDown.gameObject.SetActive( true );
+				passenger.ArmRestUp.gameObject.SetActive( false );
+				passenger.ArmRestDown.gameObject.SetActive( true );
 			}
+		}
+
 		randWait -= Time.deltaTime;
 		if(randWait <= 0) { 
 			passenger.SwitchState( passenger.AskForDrinkState );
 			passenger.sitting = true;
 		}
+	}
+	public void SitDown( PassengerStateManager passenger) {
+		//Change position of bubble for sitting
+		passenger.BubbleOrgPos = passenger.Bubble.transform.position;
+		bubbleSitMoveY = passenger.bubbleSitMoveY;
+		passenger.Bubble.transform.localPosition = new Vector3( 0.0f,
+		bubbleSitMoveY, passenger.Bubble.transform.position.z );
+
+		passenger.seatScript.AssignPassenger( passenger.gameObject );
+		moveSpeed = passenger.SitInSeatState.moveSpeed;
+		passenger.anim.SetBool( "walking", false );
+		passenger.anim.SetTrigger( "SitDown" );
+		passenger.ArmRestUp = passenger.Seat.transform.Find( "Chair/Armrest Up" );
+		passenger.ArmRestDown = passenger.Seat.transform.Find( "Chair/Armrest Down" );
+		seatTrans = passenger.Seat.transform.Find( "Passenger" );
+		randWait = Random.Range( 0, passenger.maxWait );
+		passenger.StandingPos = passenger.transform.position;
 	}
 	public override void OnCollisionEnter2D(PassengerStateManager passenger, Collision collision) {
 

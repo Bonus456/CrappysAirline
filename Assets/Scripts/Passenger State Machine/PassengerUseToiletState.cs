@@ -3,7 +3,7 @@ using UnityEngine;
 public class PassengerUseToiletState : PassengerBaseState
 {
 	public override void EnterState(PassengerStateManager passenger) {
-
+		
 	}
 	public override void UpdateState(PassengerStateManager passenger) {
 

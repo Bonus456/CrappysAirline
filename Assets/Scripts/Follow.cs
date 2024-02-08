@@ -12,7 +12,7 @@ public class Follow : MonoBehaviour
 
     public float speed = 2.0f;
 
-    void LateUpdate()
+    void FixedUpdate()
     {
         Vector3 movePosition = objectToFollow.position + offset;
         transform.position = Vector3.SmoothDamp( transform.position, movePosition, ref velocity, damping );
